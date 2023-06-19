@@ -129,7 +129,7 @@ function Hero() {
                 <Left>
                     <Title>Hello, I am Anusha.</Title>
                     <WhatWeDo>
-                        <Line src="./Portfolio/img/line.png" />
+                        <Line src="/Portfolio/img/line.png" />
                         <Subtitle>What I do</Subtitle>
                     </WhatWeDo>
                     <Desc>I enjoy creating delightful, human-centered digital experiences.</Desc>
@@ -147,7 +147,7 @@ function Hero() {
                         <MeshDistortMaterial color="#3d1c56" attach="material" distort={0.5} speed={2} />
                         </Sphere>
                     </Canvas>
-                    <Img src="./Portfolio/img/moon.png" />
+                    <Img src="/Portfolio/img/moon.png" />
                 </Right>
             </Container>
         </Section>

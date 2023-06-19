@@ -72,7 +72,7 @@ function Navbar() {
         <Section>
             <Container>
                 <Links>
-                    <Logo src="./Portfolio/img/Logo.png" />
+                    <Logo src="/Portfolio/img/Logo.png" />
                     <List>
                         <ListItem>Home</ListItem>
                         <ListItem>Skills</ListItem>
@@ -81,7 +81,7 @@ function Navbar() {
                     </List>
                 </Links>
                 <Icons>
-                    <Icon src="./Portfolio/img/search.png" />
+                    <Icon src="/Portfolio/img/search.png" />
                     <Button>Hire Now</Button>
                 </Icons>
             </Container>
