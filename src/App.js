@@ -10,7 +10,7 @@ const Container = styled.div`
  height: 100vh;
  background-color: rebeccapurple;
  color: white;
- background: url("./Portfolio/img/bg.jpeg");
+ background: url("/Portfolio/img/bg.jpeg");
  scroll-snap-type: y mandatory;
  overflow-y: auto;
  sroll-behaviour: smooth;
